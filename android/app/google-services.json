@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1023568811212",
+    "project_id": "cyclops-a2877",
+    "storage_bucket": "cyclops-a2877.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023568811212:android:a21e137df929d886501e69",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA__1Pxpx6E2TSZiIRBPA2hkQFqzvXBXhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
